@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Projenin Amacı
+
+Flutter ile geliştirilen bilgi yarışması oynu.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
